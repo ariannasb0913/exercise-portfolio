@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import RepetitionEx from './components/RepetitionExercise'
 import DurationEx from './components/DurationExercise'
